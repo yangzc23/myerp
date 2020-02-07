@@ -1,3 +1,3 @@
 # myerp
 
-## 使用的技术：Servlet + JDBC + JQuery
+## 使用的技术：Servlet + JDBC + JSP
